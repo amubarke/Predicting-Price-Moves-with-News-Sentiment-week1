@@ -1,0 +1,6 @@
+textblob
+yfinance
+pandas
+matplotlib
+seaborn
+numpy
